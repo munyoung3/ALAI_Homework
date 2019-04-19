@@ -8,3 +8,4 @@
 
 Shuffle  
 <img src = "https://github.com/munyoung3/ALAI_Homework/blob/master/homework/week_3/pic/shuffled.PNG?raw=true">
+  
